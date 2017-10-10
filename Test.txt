@@ -3,9 +3,13 @@ Create a new file
 
 Modifying the file from local repository
 
+<<<<<<< HEAD
 
 
 Hello Java 
 
 
 12345
+=======
+Hello world
+>>>>>>> 19c756e5e1c885dc0543b2eaa58366306ff68ed6
