@@ -1,0 +1,18 @@
+<project name="Basic" default="job1">
+	<target name="job1">
+	<copy file="sorce.txt" tofile="dest.txt"/>
+	</target>
+	
+	<target name="job2">
+	<echo>  modified version of hi programmer</echo>
+	</target >
+	
+	<target name="job3">
+	<echo>  Add two numbers</echo>
+	</target>
+	
+	<target name="job4">
+	<echo>  Subtract two numbers</echo>
+	</target>
+	
+</project>
