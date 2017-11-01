@@ -1,6 +1,6 @@
 <project name="Basic" default="job1">
 	<target name="job1">
-	<copy file="sorce.txt" tofile="dest.txt"/>
+	<copy file="Address.pdf" tofile="dest.pdf"/>
 	</target>
 	
 	<target name="job2">
